@@ -5,4 +5,4 @@ The EnergyNOC project is providing infrastructure and user experiences supportin
 
 Energy management, as a central topic, is provided through the integration of applicable interoperability protocoals as defined in the SGIP Catalog of Standards.
 
-The project is to provide management consoles that allow role based interactions
+The project is to provide management consoles that allow role based interactions to monitor and control facility entities
